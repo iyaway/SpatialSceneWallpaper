@@ -1,0 +1,65 @@
+name: 提交空间壁纸照片 / Submit a wallpaper photo
+description: 上传原始照片，供审核并转换为空间壁纸 / Upload an original photo for review and conversion
+title: "[照片投稿 / Photo Submission] "
+labels:
+  - photo-submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 中文
+        感谢投稿！照片会先作为 Issue 附件公开保存，审核通过后才可能转换并发布到 `Wallpapers/`。
+
+        请优先上传未经裁剪、未经社交软件压缩的 JPG、JPEG、PNG 或 WebP 原图，单张不超过 10 MB。请勿上传包含敏感隐私的信息。
+
+        ## English
+        Thank you for contributing! The photo will first be stored publicly as an Issue attachment. It will only be converted and published to `Wallpapers/` after review.
+
+        Please upload an uncropped original JPG, JPEG, PNG, or WebP image without social-media compression. Keep each image under 10 MB and do not include sensitive personal information.
+
+  - type: input
+    id: title
+    attributes:
+      label: 壁纸名称 / Wallpaper name
+      description: 转换后希望显示的简短名称。 / Enter the short name to display after conversion.
+      placeholder: 海边日落 / Sunset by the sea
+    validations:
+      required: true
+
+  - type: upload
+    id: photo
+    attributes:
+      label: 上传原始照片 / Upload the original photo
+      description: 点击选择文件或拖入照片；请勿提交截图、缩略图或严重压缩的图片。 / Select or drag in the original file; do not submit screenshots, thumbnails, or heavily compressed images.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 照片说明 / Description
+      description: 说明拍摄内容、希望突出的主体和转换建议。 / Describe the subject and any conversion preferences.
+      placeholder: 希望人物保持在前景，背景有明显的空间移动效果。 / Keep the person in the foreground with noticeable background parallax.
+    validations:
+      required: false
+
+  - type: input
+    id: author
+    attributes:
+      label: 作者或来源 / Author or source
+      description: 自己拍摄请填写“本人拍摄”；公开授权来源请提供作者和链接。 / Enter “My own photo” or provide the author and license source URL.
+      placeholder: 本人拍摄 / My own photo
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: 发布授权确认 / Publication consent
+      options:
+        - label: 我拥有照片著作权，或已取得公开发布和二次处理授权。 / I own this photo or have permission to publish and modify it.
+          required: true
+        - label: 我同意维护者公开展示、裁剪、转换并发布为 SpatialScene 壁纸。 / I allow the maintainers to display, crop, convert, and publish it as a SpatialScene wallpaper.
+          required: true
+        - label: 我确认照片不包含不应公开的敏感信息。 / I confirm that the photo contains no sensitive information that should remain private.
+          required: true

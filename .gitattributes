@@ -1,0 +1,2 @@
+Wallpapers/**/assets/*.sstexture filter=lfs diff=lfs merge=lfs -text
+Wallpapers/**/segmentation/*.mov filter=lfs diff=lfs merge=lfs -text

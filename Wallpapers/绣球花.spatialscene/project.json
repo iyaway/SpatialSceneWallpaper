@@ -1,0 +1,188 @@
+{
+  "camera" : {
+    "motionDeadZone" : 0.025000000000000001,
+    "motionRange" : 0.035000000000000003,
+    "motionSensitivity" : 0.65000000000000002,
+    "motionSmoothing" : 0.85999999999999999,
+    "overscan" : 0.014999999999999999
+  },
+  "canvas" : {
+    "height" : 3024,
+    "width" : 4032
+  },
+  "compatibility" : {
+    "metalPixelFormat" : "ASTC_4x4_sRGB",
+    "privateFrameworkRuntimeRequired" : false
+  },
+  "formatVersion" : 1,
+  "id" : "00ea55d5-8f3b-40eb-8f51-2e4604b5d525",
+  "layers" : [
+    {
+      "aspectRatio" : 1.3336484432220459,
+      "depthRange" : [
+        1.3326325416564941,
+        29.801715850830078
+      ],
+      "effectiveAspectRatio" : 1.3333333730697632,
+      "effectiveVerticalFOV" : 0.92612570524215698,
+      "frame" : {
+        "height" : 2621.8079509735107,
+        "width" : 3495.7439346313477,
+        "x" : 268.12803268432617,
+        "y" : 201.09602451324463
+      },
+      "indexCount" : 40200,
+      "mesh" : "assets\/backfill.ssmesh",
+      "meshSHA256" : "8be9f321a03ca7388e50fb3ba44c3ab6423f6e72916c61b7310263bffd9f4b07",
+      "modelToWorldColumnMajor" : [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "resolution" : [
+        2822,
+        2116
+      ],
+      "role" : "backfill",
+      "sourceIdentifier" : "spatial-photo-background-backfill",
+      "texture" : "assets\/backfill.sstexture",
+      "textureInfo" : {
+        "arrayLength" : 7,
+        "bytesPerImage" : 4194304,
+        "bytesPerRow" : 8192,
+        "height" : 2048,
+        "mipCount" : 1,
+        "pixelFormat" : 186,
+        "width" : 2048
+      },
+      "textureSHA256" : "91246795fe04585f33a261a6a9f8ff2a5bfe938f214095e1974cf34d5a8bf324",
+      "triangleCount" : 13400,
+      "vertexCount" : 28648,
+      "verticalFOV" : 0.92593681812286377,
+      "zPosition" : 4.5
+    },
+    {
+      "aspectRatio" : 0.46018120646476746,
+      "depthRange" : [
+        1.9991536140441895,
+        33.283454895019531
+      ],
+      "effectiveAspectRatio" : 0.46061414480209351,
+      "effectiveVerticalFOV" : 1.2943961620330811,
+      "frame" : {
+        "height" : 2621.8079509735107,
+        "width" : 1206.6898519124945,
+        "x" : 1140.2356983847201,
+        "y" : 201.09602451324463
+      },
+      "indexCount" : 13674,
+      "mesh" : "assets\/main.ssmesh",
+      "meshSHA256" : "e335ba07670d04303b0b8d0f9893a549cc8b7a13544ce1da89b298fbd489cd07",
+      "modelToWorldColumnMajor" : [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "resolution" : [
+        965,
+        2097
+      ],
+      "role" : "main",
+      "sourceIdentifier" : "spatial-photo-background",
+      "texture" : "assets\/main.sstexture",
+      "textureInfo" : {
+        "arrayLength" : 3,
+        "bytesPerImage" : 4194304,
+        "bytesPerRow" : 8192,
+        "height" : 2048,
+        "mipCount" : 1,
+        "pixelFormat" : 186,
+        "width" : 2048
+      },
+      "textureSHA256" : "5bbe06559a7e571d33eb40ec73b1a90f02147781696a3a955bbf588111e70d57",
+      "triangleCount" : 4558,
+      "vertexCount" : 10212,
+      "verticalFOV" : 1.2943961620330811,
+      "zPosition" : 5
+    }
+  ],
+  "name" : "绣球花",
+  "renderer" : "depth-field-v3",
+  "segmentation" : {
+    "entries" : [
+      {
+        "encoding" : "DATA",
+        "name" : "contents.plist",
+        "size" : 6544
+      },
+      {
+        "encoding" : "DATB",
+        "name" : "settlingEffect.mov",
+        "size" : 8463611
+      }
+    ],
+    "matte" : null,
+    "occlusionLayers" : [
+      {
+        "frame" : {
+          "height" : 2621.8079509735107,
+          "width" : 1206.6898519124945,
+          "x" : 1140.2356983847201,
+          "y" : 201.09602451324463
+        },
+        "marker" : "Spatial Photo Occlusion Layer",
+        "sourceIdentifier" : "spatial-photo-foreground",
+        "zPosition" : 10
+      },
+      {
+        "frame" : {
+          "height" : 2621.8079509735107,
+          "width" : 3495.7439346313477,
+          "x" : 268.12803268432617,
+          "y" : 201.09602451324463
+        },
+        "marker" : "Spatial Photo Occlusion Layer",
+        "sourceIdentifier" : "spatial-photo-foreground-backfill",
+        "zPosition" : 9.5
+      }
+    ]
+  },
+  "source" : {
+    "configuration" : "00EA55D5-8F3B-40EB-8F51-2E4604B5D525",
+    "kind" : "apple-posterboard-export",
+    "layerStackVersion" : 10
+  },
+  "updatedAt" : 1786954669,
+  "viewport" : {
+    "height" : 2621.8079509735107,
+    "width" : 1206.6898519124945,
+    "x" : 1140.2356983847201,
+    "y" : 201.09602451324463
+  }
+}
