@@ -1,0 +1,1883 @@
+{
+  "contentRevision": "d864126864ec5f460f524a92c295c3432efa5846",
+  "repository": "iyaway/SpatialSceneWallpaper",
+  "schemaVersion": 1,
+  "wallpapers": [
+    {
+      "contentVersion": "95aba491d3cb6bbd7029cf14bf0cf4a03fb06cbc84b4be0840b22075c465fea6",
+      "files": [
+        {
+          "bytes": 542184,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "603e55357993563ec54f5be3b8f7dd8dae98cbf561716d2ec7c118a131fd84b1",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/JK.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "e7710ceee9868f46b2cb798d1bf99bfa7c7f6b3c46f7dd32d2a7764f1fa326e7",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/JK.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 338804,
+          "path": "assets/main.ssmesh",
+          "sha256": "b18adfb588bc3d4b6c321d9bf344912b4a921bf79aeaf994788bf41f34046365",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/JK.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "9fcd9f1e07c7b82d3ec08d4fa157c9cb93f1b9041b48a960d0b9ea370f303c32",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/JK.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4621,
+          "path": "project.json",
+          "sha256": "12427902b97eb1a76ec068028551b7f84cc8f5c86fb71842d534737656551260",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/JK.spatialscene/project.json"
+        },
+        {
+          "bytes": 6222,
+          "path": "segmentation/contents.plist",
+          "sha256": "5427f030cdba8cafa00b3290087beebaa6e1885ea54b9d0169db4fc2654046bf",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/JK.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "271d57a3-1f3d-4d7b-b432-cceeaba0fd9e",
+      "name": "JK",
+      "preview": {
+        "bytes": 103607,
+        "sha256": "19a38737671ab1e23d880a639ba14dc188cf8741c8b977966a7bf4c34b8dd233",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/271d57a3-1f3d-4d7b-b432-cceeaba0fd9e.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 30252039
+    },
+    {
+      "contentVersion": "9ce0aaa043774cb585b520431fee36aa5b115a8b93cae628821d69b94a85dfc6",
+      "files": [
+        {
+          "bytes": 215152,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "3aafd5967ff3206e98f46672d7861386ffa969172eafb57c19d94c28e1dca614",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "2b60c720bac9c6d7772cae7e27b934ccb20a521b77d9ae2eb77cc93540e7f9f0",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 235856,
+          "path": "assets/main.ssmesh",
+          "sha256": "b75ed8a36a71bafaef38146815dbbb56125c5847bda2e5e0a6c02a898ec5a2d6",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "0cf382445ea3637a31cd33c6ad655c5f003daffe0540a2af50d8a4921e2fd633",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4735,
+          "path": "project.json",
+          "sha256": "671a363fad098b738369f443b0df45dac3faf009bc1ca494b713232d09ba8081",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/project.json"
+        },
+        {
+          "bytes": 5778,
+          "path": "segmentation/contents.plist",
+          "sha256": "27e8218c8bb38a22428873ceef73ce40508f214e437169edbd95018f186d4090",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 46008,
+          "path": "segmentation/matte.heic",
+          "sha256": "38639f7cd7a407eebf640f7d7b322de6961936839661371f8fee45d25261bd46",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%93%88%E5%A3%AB%E5%A5%87.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "31516d4d-489f-42ff-92fb-c4877e5da784",
+      "name": "哈士奇",
+      "preview": {
+        "bytes": 123957,
+        "sha256": "6a5cd685802035ce7738102982572e2e274b98427b20a3adb1b8cb9e62feb5c8",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/31516d4d-489f-42ff-92fb-c4877e5da784.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17284825
+    },
+    {
+      "contentVersion": "eefcbb869c7536af796ef4408fda1bd2f5f0a6dded31e62f1b454c8d01b6acaf",
+      "files": [
+        {
+          "bytes": 147164,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "d2ad626e60773f75523b4042683eea863ab324a9b5c890b1a109b04ccf56b0cf",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%9B%9B%E5%8F%B6%E8%8D%89.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 4194344,
+          "path": "assets/backfill.sstexture",
+          "sha256": "86618b71650ba3eb13dc98817f3e9d8fed939d59d3324e52fdf432fa26f2a8e9",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%9B%9B%E5%8F%B6%E8%8D%89.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 116820,
+          "path": "assets/main.ssmesh",
+          "sha256": "eac0a7ea603141249d7e270ccb871d97ca1e55ccc1b3c6b5e2d384fdf028c89a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%9B%9B%E5%8F%B6%E8%8D%89.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 4194344,
+          "path": "assets/main.sstexture",
+          "sha256": "8e0c2db336df7ef4dcfc7a238e1dce917d06015da40877d24f1553954b07c2e6",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%9B%9B%E5%8F%B6%E8%8D%89.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4601,
+          "path": "project.json",
+          "sha256": "944308b12b1994462ebf2bf1db02f6ac19508593558dddd4cb8dda885f7ddc21",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%9B%9B%E5%8F%B6%E8%8D%89.spatialscene/project.json"
+        },
+        {
+          "bytes": 5686,
+          "path": "segmentation/contents.plist",
+          "sha256": "de8457a5d4018119fb1c76b54b5539a58935324de5bff9ce5e03504902e72fd7",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%9B%9B%E5%8F%B6%E8%8D%89.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "18d8cee5-61b5-4f5d-b956-c1bf7a42a802",
+      "name": "四叶草",
+      "preview": {
+        "bytes": 71530,
+        "sha256": "1cf317e27c7417a5fef11c6158b4694be22a28a161ed04e521d9cd99ada4ea67",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/18d8cee5-61b5-4f5d-b956-c1bf7a42a802.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 8662959
+    },
+    {
+      "contentVersion": "e51b2d52a0a24af8ee620663d78401de7d6fb311ac6489c4aa5f2189ecf47bad",
+      "files": [
+        {
+          "bytes": 500716,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "2b4a953109ca913782dac0051cb487ba4245ddee6fc0a0abf392d3d6e835b7eb",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "9a4ef28f33b6ccedf8732d2c05fc8dd62b53d72fa9f70a019fd4074f980181f2",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 226580,
+          "path": "assets/main.ssmesh",
+          "sha256": "c685847fe53fe39923b5d96c93ea94e9afb00956048150e8db24f3103ba6ebaf",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "c4d9c080d7b122dae0412b21eea45041e8066d91c7808337f8686a044813a7de",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4729,
+          "path": "project.json",
+          "sha256": "fc9396bb088a7dc30ea45535e7a15c894cdbb53875eac944ecd7c2a43cc13829",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/project.json"
+        },
+        {
+          "bytes": 6629,
+          "path": "segmentation/contents.plist",
+          "sha256": "ef5e2b21241392bca3be763270133c88ee8ab773a98cb120599a3202d53e8dec",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 1788215,
+          "path": "segmentation/settlingEffect.mov",
+          "sha256": "6689f81c370e1462cda62f42bbb0026f9c11525ddc72b20421e5518612cb3df9",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA.spatialscene/segmentation/settlingEffect.mov"
+        }
+      ],
+      "id": "0c6534b4-c700-4ddf-b6f5-da30f999c7f4",
+      "name": "天空",
+      "preview": {
+        "bytes": 66557,
+        "sha256": "7276910eda0eaf3f5d4526f1bc3b6838a9e2f5c55e44e7bd7e34f9bb5d900d42",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/0c6534b4-c700-4ddf-b6f5-da30f999c7f4.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 27692773
+    },
+    {
+      "contentVersion": "db863c417aceeacc5338a30ec8d286a066c1b204f39a88fa3f6bd8ad3751be5e",
+      "files": [
+        {
+          "bytes": 898248,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "e8df3c457018bd851a5a3d3eff8362d2a9061ec134dedd3193887e28b5d4ad4a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 25165864,
+          "path": "assets/backfill.sstexture",
+          "sha256": "b90b3af5dd202c85d3673274f1c6d41a1e937a05a338a50f9b0726d7f2198db4",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 375444,
+          "path": "assets/main.ssmesh",
+          "sha256": "9bb92b982e1475dfc0069f07a54da6dae2ed2f1955f5958d12d17fb3455f4d24",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "a7fa0a0dcb13746b5a904676e14e637e1be8fb3488dfac5d402ab4889003d404",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4853,
+          "path": "project.json",
+          "sha256": "fd5fafa12107e5d0b1c494713e7e8b57ff1ea7137849d1bd5205fa46d550085b",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/project.json"
+        },
+        {
+          "bytes": 6564,
+          "path": "segmentation/contents.plist",
+          "sha256": "9487f3584f24242807478146adc980548accf33a4f9bfb70df0a0261c7a3adee",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 331044,
+          "path": "segmentation/matte.heic",
+          "sha256": "baf00167fa77fb2a43c9a8d173678fe818402149014de9d145d391ba0b95bcbf",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/segmentation/matte.heic"
+        },
+        {
+          "bytes": 4511312,
+          "path": "segmentation/settlingEffect.mov",
+          "sha256": "f5b6fabf95f901138d69b2e64e9376058365d63577f71b7339c216016b41c59f",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%A4%A9%E7%A9%BA2.spatialscene/segmentation/settlingEffect.mov"
+        }
+      ],
+      "id": "171f0d50-bbb6-4487-a88e-fb71407e4191",
+      "name": "天空2",
+      "preview": {
+        "bytes": 108007,
+        "sha256": "6a2174d40d37d0b3df70846c7a5eb2f2d3ad4a1e0759749912596c89a3242ad7",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/171f0d50-bbb6-4487-a88e-fb71407e4191.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 43876281
+    },
+    {
+      "contentVersion": "88a180b946ad26ce558feaa0f4bd3ba6d88b3228d72c7d7374493ac5173a6aac",
+      "files": [
+        {
+          "bytes": 302852,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "bceb8b9eda56adc54fc08b92229e11b2a4051193f9aac84dd3534381f803d20f",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%89.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "8720c94da380433858717865b7fc4bdf05b8d5c3f2a65aaa9763718df5a99090",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%89.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 327184,
+          "path": "assets/main.ssmesh",
+          "sha256": "7c639c11923c5b31cfe638ab1826f9b2368822bf219ae11a8f3c767b75993367",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%89.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "51c267646d016eb6742ecbf05e88905cbace50eea2c9051703f6a666380b86c1",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%89.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4624,
+          "path": "project.json",
+          "sha256": "3eb95a3464684073c949901a6131f8be830a0cac181220553fa8a16c34b786e0",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%89.spatialscene/project.json"
+        },
+        {
+          "bytes": 6178,
+          "path": "segmentation/contents.plist",
+          "sha256": "435ffe545c25a1cd31f06a6483aff1de8cc916029a91db700e4f8725ff9fe89a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%89.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "3aee3600-c981-4ff9-8f8e-7fdf6f3594b8",
+      "name": "小萝莉",
+      "preview": {
+        "bytes": 108070,
+        "sha256": "032ebdefa12f6271d96af997394e91b4432d12253b08b60eaba62d36f23656a4",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/3aee3600-c981-4ff9-8f8e-7fdf6f3594b8.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 21612438
+    },
+    {
+      "contentVersion": "595834325ff99353436d62b6935ffba388c98507c02be94d7ad0df92005224b4",
+      "files": [
+        {
+          "bytes": 275952,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "bf2a531d53215cee06786b872d17618ec869e15be88bb3bc8a1f32f24cf511a3",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%892.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "26b6c6c56de0536e7569c4d9234b8c6bb8eb39d7c744aaf597c58e011ce24d0d",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%892.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 272988,
+          "path": "assets/main.ssmesh",
+          "sha256": "6a4c2a09ad6cd33b20a3e9e73e7860d7e49485bea231f43f5f4b310ef71ba51c",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%892.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "c4526b6a48ab17ce00c19733ff1383ce070ec7610c4af1344c362a7f6fac2fdd",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%892.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4625,
+          "path": "project.json",
+          "sha256": "47af04533f7bf38b2a1276f3f2a632518043bd2c496ce0d4e57d3e266cba9e6e",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%892.spatialscene/project.json"
+        },
+        {
+          "bytes": 6316,
+          "path": "segmentation/contents.plist",
+          "sha256": "f1d3256e538a9b8414520132f0395e4d0e8ab8eb40b0df4bb391d2be5e09516d",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E5%B0%8F%E8%90%9D%E8%8E%892.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "71156f10-df10-4691-bf76-ecaf5eca2e4d",
+      "name": "小萝莉2",
+      "preview": {
+        "bytes": 91648,
+        "sha256": "93be5674476c0dc7791979a73aac4e7ecbe6936703cc81ce047732c83688bee3",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/71156f10-df10-4691-bf76-ecaf5eca2e4d.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17337177
+    },
+    {
+      "contentVersion": "91e111f7d1cc22d5afcae2dd408af017c3cd353e93d66dfda4daf7a14ae797ca",
+      "files": [
+        {
+          "bytes": 191868,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "60be4feb7ea46f63160ba897d721f1c97cd98cc3f7181e158bc13917abc58609",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "17746dde8e0fa775052baf61692733e443aeb2657385169d11764809f8f705ef",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 153832,
+          "path": "assets/main.ssmesh",
+          "sha256": "14c788244a25049fc7aad75eea46cc4d5263cce48ff6042b53ea097f7d62c585",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 4194344,
+          "path": "assets/main.sstexture",
+          "sha256": "e41f83d2639c6526289c445f4814bbde33e9450b37e00c242a018d16f36c9885",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4695,
+          "path": "project.json",
+          "sha256": "30545d011f8977aa1118b20dbe39587b2362a18d332ab059ee4453070dd47cc2",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/project.json"
+        },
+        {
+          "bytes": 5858,
+          "path": "segmentation/contents.plist",
+          "sha256": "d74ce44d00ba1ed14199907059fa669e72e4edf5240758b7a82a13b5e1e49931",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 101875,
+          "path": "segmentation/matte.heic",
+          "sha256": "4f664fc605ae42eba9cb03429a8813e53fa56800401817ce9090a1cbae8f04ef",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%99%9A%E7%A7%8B.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "571ef3cf-0979-4686-906e-0eb97942770b",
+      "name": "晚秋",
+      "preview": {
+        "bytes": 126102,
+        "sha256": "4c67f50c7f7ca7db47c63f8fc89be94b07185b27b4c2581223eb4492f38833b6",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/571ef3cf-0979-4686-906e-0eb97942770b.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 13041120
+    },
+    {
+      "contentVersion": "397ce3a9144fd6356ce32b84d60fe44a8e9952482e208254f2eb61c093a93b38",
+      "files": [
+        {
+          "bytes": 431388,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "123dc2194f6158ad25c5965b82b410c2c3ed83d44700ed569f4237d96cbe9fdd",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%85.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "141659afb5ff5f72de629400c074c82b0022f5320ed7d8192fe8322e09102cf2",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%85.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 405736,
+          "path": "assets/main.ssmesh",
+          "sha256": "f5d739a48569c2623cee53a5132b5ae91d0368f49892c546b039fedf18245528",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%85.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "10cf9db3497d26090ae9be2c04dfa69df84de625210e269bfaa31a6e0ce77635",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%85.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4622,
+          "path": "project.json",
+          "sha256": "741262bb6a36e8eb3dbb0428ce6dcba3bbfed196f7dd38715a54edd903e9a3c3",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%85.spatialscene/project.json"
+        },
+        {
+          "bytes": 6230,
+          "path": "segmentation/contents.plist",
+          "sha256": "3e1d794b9594f2e2e5f2c452a06c42f90c492d82e8ac7da216ef505bbeaccf79",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%85.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "2e513a21-bdea-418d-828a-ab1540dab316",
+      "name": "泳装",
+      "preview": {
+        "bytes": 122377,
+        "sha256": "cb21422e14cfe6bf31c0a9dc2b26d221761e0772953109a3cc78cad3aae8f570",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/2e513a21-bdea-418d-828a-ab1540dab316.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 26013880
+    },
+    {
+      "contentVersion": "f12d539b62122dc1b6925f49b1bc6f12856482a6cbd3234933e4975a34c965ef",
+      "files": [
+        {
+          "bytes": 384088,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "eba99484937eb5359126e0ee6bc570dc4b0186a99d25583a7750b11e3601bd06",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%852.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "acbb75e9d89a8dc6ed6320c19f619411dc969127e000fb6d67fd3951e48c8b2b",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%852.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 343880,
+          "path": "assets/main.ssmesh",
+          "sha256": "f406767824239f60ad8544ed92f0207e2646552b74f4bdfa9d9ca9413c3d6da0",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%852.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "89abc25634a85e826915b5bc944b8c3ac66970f5807557689faf23c463aa8c7b",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%852.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4622,
+          "path": "project.json",
+          "sha256": "f423a4aabbc3879e5bf8fe73e7fb96be616a916065f7562b837ac7fec85b3e81",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%852.spatialscene/project.json"
+        },
+        {
+          "bytes": 5911,
+          "path": "segmentation/contents.plist",
+          "sha256": "f2d8c423ff24b3dc3dcb082e2301ea5f85711efe6fc88d58af88c25e3c8a1341",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%852.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "7b59c4cd-346b-459d-b833-535a3f715665",
+      "name": "泳装2",
+      "preview": {
+        "bytes": 109951,
+        "sha256": "cf6893a851e3a5c3927f5d9f781037c3d1f323364e6d4c08db80aaf09988382c",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/7b59c4cd-346b-459d-b833-535a3f715665.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 25904405
+    },
+    {
+      "contentVersion": "d58eeb613290b2a2868923fc085005e7aa62e8444045a78279dc4e65e99c030b",
+      "files": [
+        {
+          "bytes": 261424,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "e2836b5db20177bdff92f0faf37c877d69e1e8a28458cfda858573581afac215",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%853.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "ae4f2b4ca6404a05801aceb1ea4c456e09e554a498f76f913d7fd34466e59d42",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%853.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 212260,
+          "path": "assets/main.ssmesh",
+          "sha256": "998e47e5f9e2912b6f10daac0288a7d31434c696dc2397a9063e4b1b27873647",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%853.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "35ef5daecd641405005713ab0b3ed394ece67c08ac38277469533271dc3a60c0",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%853.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4623,
+          "path": "project.json",
+          "sha256": "be992689e0400dc762efe7f3332b604452a29bb89ce4a716d098fbda1a603ea0",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%853.spatialscene/project.json"
+        },
+        {
+          "bytes": 6096,
+          "path": "segmentation/contents.plist",
+          "sha256": "7ce2203e196748256e98ba05b7c25d6c7d0e6adca3543120567206c247c944d9",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%853.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "11d9cdca-64ea-490f-8149-1c554763e6ef",
+      "name": "泳装3",
+      "preview": {
+        "bytes": 69766,
+        "sha256": "610cdc72095e844167fc7e790f16fc37da1b80aa82485111646c7f98a557aed7",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/11d9cdca-64ea-490f-8149-1c554763e6ef.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17261699
+    },
+    {
+      "contentVersion": "ea7ed8b0ce744b22ddcd7765019e7f441d7baeb298d10763086612f19620a2d6",
+      "files": [
+        {
+          "bytes": 257848,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "290a5f3a2635f03ced42bf266faf49a65431c5f06d4d5973db15d357c214d0a3",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "85e3555064dcfaa7f47d2560979bf65ae22c001b08e22d337963708ed4d1b108",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 229064,
+          "path": "assets/main.ssmesh",
+          "sha256": "fd55f1577e0802524fa4d1a3d22e7627c73e8e832677fd52c3a8b318bd1083d2",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "dcd4e2835cc203b0b66ee7e7c676f7c3adfda47f0d70fcc0a2d29d7c8236dc46",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4745,
+          "path": "project.json",
+          "sha256": "270b42fd53d36d5918484310b0c5d28d3a94a57e803c2d03764bb0a0a8c174c2",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/project.json"
+        },
+        {
+          "bytes": 5789,
+          "path": "segmentation/contents.plist",
+          "sha256": "3f01d98a8c8e2600f1354aa0d697caf9106476a39049be930a3f80c02132802a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 129763,
+          "path": "segmentation/matte.heic",
+          "sha256": "45e60a947617e05880e76ee00cf838df837ff55eb6d549c504b650bcc6d5735f",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E6%B3%B3%E8%A3%854.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "07184468-a68d-4bfb-bb7e-acb787ee415d",
+      "name": "泳装4",
+      "preview": {
+        "bytes": 144699,
+        "sha256": "f93de79415c3431949d9630986283821a10b371750c158cbebffe92e5662e403",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/07184468-a68d-4bfb-bb7e-acb787ee415d.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17404505
+    },
+    {
+      "contentVersion": "c19d07ebc16f694a6aac201948947422b332b41b9fe329d1a91c0df954b2b89a",
+      "files": [
+        {
+          "bytes": 237980,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "85a9796e97060b4090a311cf62fa27fe698793d5ef0da52ef1e73d1c2f87adf6",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "c0a8e16a400fbc9d2fb5d1df5446f8026e018fc4a2ed4a74c9d56639d4ed6d46",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 159768,
+          "path": "assets/main.ssmesh",
+          "sha256": "0697a759c6093869f461205a8deea271e7ce2358190690a6f810c1097e873cd4",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "121fd48f9995b95e9f8545ef4e13fdabe1e4b50ac41732d080a513c2a76acd60",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4744,
+          "path": "project.json",
+          "sha256": "18da36d1681209f66b37eb86a179ea8e0dfd2a69a39b436f8b23451a58247c86",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/project.json"
+        },
+        {
+          "bytes": 5885,
+          "path": "segmentation/contents.plist",
+          "sha256": "eeef374f51d80bc98a000db3d17fe89e0b035e4fda351b7e1d507a8a2c2d49b1",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 22663,
+          "path": "segmentation/matte.heic",
+          "sha256": "37f756672a09dec624bd5d7768f1509f84737bdc18c5b18b2637f6ed118035b9",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8C%AB%E7%8C%AB.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "b9d8cd52-362c-43b5-aae5-bab4131c0f97",
+      "name": "猫猫",
+      "preview": {
+        "bytes": 103540,
+        "sha256": "81f2a9ad4dbd66687edca8d71f94d224b2b029c6136980bb763fb5ba45804f23",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/b9d8cd52-362c-43b5-aae5-bab4131c0f97.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17208336
+    },
+    {
+      "contentVersion": "59a930d0c8346439f296ae9ebbb9c61064d5aa3abc9ad4a0cc83190426d17e85",
+      "files": [
+        {
+          "bytes": 315868,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "a66358bf7f3c360ec6e3cd9a90b30fdd944bfca8eed74a459ae2d469b25ff731",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "20ec70b31a14b97018b8ffdc1ff7f75c6cbe138dbe05c01d6018fc071dfcd5e2",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 259276,
+          "path": "assets/main.ssmesh",
+          "sha256": "8023dfe47bb9b0d6986763f3d43c6af222c385788ddb5118d0a64575d9b7de63",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "7f0283df843d92cc2fe85232f802ac916c9c1b188170982ee25960fb8dfc5df0",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4739,
+          "path": "project.json",
+          "sha256": "54e01b9a540df905f6b7746cfe5af3a2cac33ecd3861e8b2e40d6223a60b4c85",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/project.json"
+        },
+        {
+          "bytes": 5880,
+          "path": "segmentation/contents.plist",
+          "sha256": "14be2f0d7ef33c2d023611ddd24362977cd34c13f63643e892a0691afcfcb35e",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 22642,
+          "path": "segmentation/matte.heic",
+          "sha256": "fb2860d505f472a88930944024b1cbf11dcf1e1efe04fd293d410d44f18da521",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%8E%AB%E7%91%B0%E8%8A%B1%E6%B5%B7.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "071a2bc1-8d2f-4354-88fe-6e5db2b4469d",
+      "name": "玫瑰花海",
+      "preview": {
+        "bytes": 75076,
+        "sha256": "e916183014f3b64109f15e603fe698fcdff27ac29b2cc148bfb9a199b6cbe6d2",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/071a2bc1-8d2f-4354-88fe-6e5db2b4469d.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 21580005
+    },
+    {
+      "contentVersion": "5c3cfcf955a882f6302ccb5f3080d50b513ec66e9849223a5609bf0d0b52e411",
+      "files": [
+        {
+          "bytes": 512292,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "0c4a45a424b2a9b6a3867300794e97d57c9bff1be697e1d75b2d2ccda0077464",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%91%9F%E7%91%9F.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "932be8474d879a5376223deab579adf794e77650c3f0cac19b70f50dc908236b",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%91%9F%E7%91%9F.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 399196,
+          "path": "assets/main.ssmesh",
+          "sha256": "f18c56274933a44a55a9a5e45af74953a7e8d1d9b14cf0e0e0f841d89a363195",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%91%9F%E7%91%9F.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "c06fe9405df91c54d8979f6fec48c22e1dff45bbd9fe09c188b0e8572bb8e833",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%91%9F%E7%91%9F.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4621,
+          "path": "project.json",
+          "sha256": "1eb1c5acc0073baa26c3755ee97a0001fa9456bcc15111ec1b6628a1aade0515",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%91%9F%E7%91%9F.spatialscene/project.json"
+        },
+        {
+          "bytes": 5947,
+          "path": "segmentation/contents.plist",
+          "sha256": "ab0cb39fc091ae691d27bd902419c5e18f60d806539036d2718225329aa99511",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%91%9F%E7%91%9F.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "19e7d8a0-d216-4b64-9d24-2e87c2592674",
+      "name": "瑟瑟",
+      "preview": {
+        "bytes": 80605,
+        "sha256": "54a33368f71855f9293098951adecceb678997b539266dbd546fc98fb07ff209",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/19e7d8a0-d216-4b64-9d24-2e87c2592674.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 30282264
+    },
+    {
+      "contentVersion": "7b3e11bd86f1260a6527f4d0847413293b082f5929bae587fa683173a7d15278",
+      "files": [
+        {
+          "bytes": 328620,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "43bfef77e12364cefeb55af94b36e23e739e1bf168d42d0e8bbd4b7310cf725a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "b72eda9688da46a66ea99ee2c0fa7647832a2eb928291d62a5c6305084602a3c",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 303444,
+          "path": "assets/main.ssmesh",
+          "sha256": "a60635767b7cce289200c464c4fb00f211a467e36b04728fcd80b20023dd0a35",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "0575d13b053b418160010d1cb8051e2b60359c680ef34ca0698a9c732d4d4232",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4742,
+          "path": "project.json",
+          "sha256": "0c8781793b4b1e1a0c387c9d0427c441bdb6e6c2d49f703f861c657608659993",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/project.json"
+        },
+        {
+          "bytes": 6020,
+          "path": "segmentation/contents.plist",
+          "sha256": "a33594994ad284bf65b75014b2e2ec120d24cf4da992f4715e4004dabd28bfb3",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 38899,
+          "path": "segmentation/matte.heic",
+          "sha256": "9bf72b9a735a244f9d42dedc735c279f7d4166505e537e696b1132a66793e465",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%99%BD%E8%A1%A3%E5%A5%B3%E5%AD%A9.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "f02a0011-02ec-4342-826d-e24212efccbf",
+      "name": "白衣女孩",
+      "preview": {
+        "bytes": 76383,
+        "sha256": "8cad0590ce4748fb9fa8a572ef0b9d94b67572a71e8ac611eb387ef6417d623f",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/f02a0011-02ec-4342-826d-e24212efccbf.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 21653325
+    },
+    {
+      "contentVersion": "b192f86dee25d33629987b8977da5b706c8ef55899a1f8f35c41dca37910d077",
+      "files": [
+        {
+          "bytes": 1077568,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "8be9f321a03ca7388e50fb3ba44c3ab6423f6e72916c61b7310263bffd9f4b07",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 29360168,
+          "path": "assets/backfill.sstexture",
+          "sha256": "91246795fe04585f33a261a6a9f8ff2a5bfe938f214095e1974cf34d5a8bf324",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 381512,
+          "path": "assets/main.ssmesh",
+          "sha256": "e335ba07670d04303b0b8d0f9893a549cc8b7a13544ce1da89b298fbd489cd07",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "5bbe06559a7e571d33eb40ec73b1a90f02147781696a3a955bbf588111e70d57",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4735,
+          "path": "project.json",
+          "sha256": "a5201c94714ea2e30f3e89a20b22fd60107ddd3e1ef73f7e45d62f25bd2868bd",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/project.json"
+        },
+        {
+          "bytes": 6544,
+          "path": "segmentation/contents.plist",
+          "sha256": "c62b31f24699f84df6b9e49fed9d8d2f24e5c75f5e6528e8685c0185017c72ce",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 8463611,
+          "path": "segmentation/settlingEffect.mov",
+          "sha256": "3db60d29b59a397abb3d2aa04130766a09ccd2ee232ef0627c220c0dd88f3a74",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BB%A3%E7%90%83%E8%8A%B1.spatialscene/segmentation/settlingEffect.mov"
+        }
+      ],
+      "id": "00ea55d5-8f3b-40eb-8f51-2e4604b5d525",
+      "name": "绣球花",
+      "preview": {
+        "bytes": 207168,
+        "sha256": "fcb404bd26855074d9280ada4aee3831e20720f818550b1a09286ea355fead7b",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/00ea55d5-8f3b-40eb-8f51-2e4604b5d525.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 51877090
+    },
+    {
+      "contentVersion": "991242b362e3ea8563dd9c26b7330f782478740b9870df9b982a171c47721ef0",
+      "files": [
+        {
+          "bytes": 456600,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "13e12e59dfa2872c1e7bc86a93ce887e62b3e987c687d9430c20535db13a9ee8",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "4f6ab7de5478079ebb59638fa274a7ebc983f4898768cf09c997b92dd4623d58",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 337252,
+          "path": "assets/main.ssmesh",
+          "sha256": "11b039c232128b3d342702b5882959516fb901a62c9fc2b2106409fb1e3b6fe5",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "b7a4638ea104943d9ef9c6f493da6c09885f18d55a33486e168056fcf4272a0e",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4745,
+          "path": "project.json",
+          "sha256": "b162def60be7475ce57646fbc481c7f3e8dab4e492cc9725d0629e2d21dbea7a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/project.json"
+        },
+        {
+          "bytes": 6108,
+          "path": "segmentation/contents.plist",
+          "sha256": "0daa21df3a3da1b5e3c47e4e44281557552b151d835bcd5a05f7faada4cf9ebe",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 55072,
+          "path": "segmentation/matte.heic",
+          "sha256": "a616b75ba97cd34e531ff56dc828d62ce561f291c3a3f02f62c66dcf64614540",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B31.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "5c9fa666-bb6d-4e3a-a408-1a09938d4c31",
+      "name": "美女1",
+      "preview": {
+        "bytes": 49300,
+        "sha256": "b52753f9832ea9ac01552072fee0c57813cb8ad14b428a4396eea1037c4b882f",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/5c9fa666-bb6d-4e3a-a408-1a09938d4c31.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 26025681
+    },
+    {
+      "contentVersion": "f7f7a729c86320de01eab8514f0468c733b48d1131370e97c790f9df0e194ca2",
+      "files": [
+        {
+          "bytes": 247832,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "f3407cc895e72b820c645b34b1523b4a7753c4c112766c494a0b39505064ae17",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B32.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "84c56a63e960714afe3846a4691d5688b19ec50adde93f5bc0135f817b9543d4",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B32.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 228972,
+          "path": "assets/main.ssmesh",
+          "sha256": "987ad9e69b9dc213f18f95ad8df1e32bbfc2cf53b74958e4deef10ee42d2e200",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B32.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "fbf512e12e166391ac7da3dbcfdbf8d91181abf4bc2e6e8b04042e7e73fffde2",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B32.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4623,
+          "path": "project.json",
+          "sha256": "5b36fdeecae8769104d6249050d3915ff822f4be8c95088c3a1e527eedc8fa41",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B32.spatialscene/project.json"
+        },
+        {
+          "bytes": 5788,
+          "path": "segmentation/contents.plist",
+          "sha256": "e1968408e52ea62c9e8f70cc4ea5552170979412f7e7a3ecd1d9550d6692d6a2",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B32.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "1983a0b8-b5bc-4d09-9e23-069ff495579c",
+      "name": "美女2",
+      "preview": {
+        "bytes": 93801,
+        "sha256": "03dac852f3d83c49fa92ca3a195e4013f0e9ab2129d6526992ae2a84978a195d",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/1983a0b8-b5bc-4d09-9e23-069ff495579c.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17264511
+    },
+    {
+      "contentVersion": "737d13bf08d99271b0ea63aad1888be2197370e9881f456b195e9527ddfe6cb2",
+      "files": [
+        {
+          "bytes": 355792,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "b3d7140427a27e73c4a4ae1c9813e09fb8ab6e46495b9819564bc7a3e69c62e2",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "e15acd337e1fbe470d4f3881f62d88d7aa3c931c5defdd9add0216a3065ebad6",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 273100,
+          "path": "assets/main.ssmesh",
+          "sha256": "e7a2ca5eb70f88ef861eb0fe6b67e5fd848990abccb3fe9e1504edcbfd72ba12",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "1c55132eeba17b6cd700d25ed817e89e5614c88abd0fcba8ac509ffd609e609c",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4746,
+          "path": "project.json",
+          "sha256": "1dde885fa1dff3b44fb73b2d15be097415c7dcad6e61c35d8372321f45b84620",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/project.json"
+        },
+        {
+          "bytes": 6108,
+          "path": "segmentation/contents.plist",
+          "sha256": "173e723708e5ad35de576c4b4d4c077353bfaca629068b198f3bfcdcc9312800",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 84707,
+          "path": "segmentation/matte.heic",
+          "sha256": "f2158e474ea6f666ce4a0632434f9af7855d4ac1c907e2f042ae5e9ff75d127f",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E7%BE%8E%E5%A5%B33.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "a13a3b29-9761-4ee9-b499-298387d7c820",
+      "name": "美女3",
+      "preview": {
+        "bytes": 56984,
+        "sha256": "3e7902be7d713c356b14883e0ebf9cbd28a6bf144aff79572d76dfc35a58fbbf",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/a13a3b29-9761-4ee9-b499-298387d7c820.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 21696053
+    },
+    {
+      "contentVersion": "fea9f1b6fce7500e76d5a4456f89cd6151f9fa2578d86d65504cb6c2200c3798",
+      "files": [
+        {
+          "bytes": 515524,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "7f3220e579de2190e712dfb2868a6fa2855ea1adad418a455b9e22e0010800ac",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "90202eb34624e2f01cb399d18661739b5ee6ae05008d310e34d1a80cc9df3350",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 528196,
+          "path": "assets/main.ssmesh",
+          "sha256": "e101074308a6746f4be0c28a6fed3d9214f3ed4a02b565ed5b99974973e0cf89",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/main.sstexture",
+          "sha256": "ea8108ddb784d23ca35d93e53b5f13bf20efc5ab5a4867df7a7523792a946969",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4741,
+          "path": "project.json",
+          "sha256": "3f41f23f5503e5d0df912a57d48ad3292ddccf60a2b0dfeffe56b825a9ef0b55",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/project.json"
+        },
+        {
+          "bytes": 5770,
+          "path": "segmentation/contents.plist",
+          "sha256": "b5fcd31bc74d72cf54b45363b521bc7af99dca338cf84f780e6c8624609f1cac",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 63503,
+          "path": "segmentation/matte.heic",
+          "sha256": "b1136fb8291cd836aebf5c3336158bbbd34ebf3f8f2191f49346c517f3b9e420",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B1.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "52571b40-5ca3-420a-acf9-a4879ba4736f",
+      "name": "花",
+      "preview": {
+        "bytes": 119451,
+        "sha256": "dba8f2c39c2ca97958d1cbfdd126b44248d0588d3608dcbf47dfb73896eb8a57",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/52571b40-5ca3-420a-acf9-a4879ba4736f.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 34672246
+    },
+    {
+      "contentVersion": "bc4495d766a2b837c4e18accd206e201885ae8fe71cdfcaa1450594867a207ed",
+      "files": [
+        {
+          "bytes": 578856,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "80114ce64e7e68ae7e2f37c47ef3169808c658a1444c6f29fb11d734f85c1a26",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "01957bdb444bda9ec6a9ae42e3cd09f570d663f3b07c1a8cfa3f40a6e52df863",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 525024,
+          "path": "assets/main.ssmesh",
+          "sha256": "df78379a0c65ef13dfe5e4cbeb32590058b4b5f1ff87ff27d8ffa3af7d9ad220",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/main.sstexture",
+          "sha256": "3f187df7b34182ea45dd61ba916ecc41a2ecd8018b8ad6759be7f49fc6f63b2b",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4857,
+          "path": "project.json",
+          "sha256": "9a55bea01cc8f2f3a5aa043664c8dc76a7bb22c8f9b93beac7d8ecd9b331a65d",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/project.json"
+        },
+        {
+          "bytes": 6626,
+          "path": "segmentation/contents.plist",
+          "sha256": "55c7779f12666898d643ee0b9b1eca6e2163433f741d4a227090497d02ec5094",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 160477,
+          "path": "segmentation/matte.heic",
+          "sha256": "3492e3c5a0a23105a644abb97123b2c0093e930c7b12ec768a7560112d7ca492",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/segmentation/matte.heic"
+        },
+        {
+          "bytes": 6319907,
+          "path": "segmentation/settlingEffect.mov",
+          "sha256": "b906b3e94eb140110097ec07c9027aa0c78cc70f88bcaeb4309c58c7269a4346",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B12.spatialscene/segmentation/settlingEffect.mov"
+        }
+      ],
+      "id": "41834c50-f9f4-4e8c-a7f2-b03737fb8984",
+      "name": "花2",
+      "preview": {
+        "bytes": 120938,
+        "sha256": "f0f331f38ac849ec53eedec1e72f812f530e640aac69e1e83244c710d15daec2",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/41834c50-f9f4-4e8c-a7f2-b03737fb8984.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 41150259
+    },
+    {
+      "contentVersion": "8fa4d9f588e104573732f661cfd6d2aa68fccc8e9173bd1994785bad895d797f",
+      "files": [
+        {
+          "bytes": 460244,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "5d6e2b30ffcc66f32ef0f3e1d4485cbaa143542203d1ad51d7d103e0f225d022",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B14.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "4355bcfafe707943abb3538e9040fed95984a72b8aa3369226c2a9dbd1634b09",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B14.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 458264,
+          "path": "assets/main.ssmesh",
+          "sha256": "204273943b4553f2ed6b9b528440eab9b98728ee628d518ae023328e1ec7089a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B14.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "d78e85bc61c47fe61050bcd456ec69afd9cecd7fae267ecc048f5e7843f6fe37",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B14.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4614,
+          "path": "project.json",
+          "sha256": "bc74402baff29e988ae0e3f04678102829c14744549c98605c1be761f85ade4a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B14.spatialscene/project.json"
+        },
+        {
+          "bytes": 5818,
+          "path": "segmentation/contents.plist",
+          "sha256": "f0617e1bd5968471097ce2bb7d5ef6e8dd07552173ce4d568549a7dc52cff7dc",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8A%B14.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "c02a11e2-bbce-4f2d-a62d-af9b2ec0a56e",
+      "name": "花4",
+      "preview": {
+        "bytes": 154634,
+        "sha256": "1b076311c05ee4b062ed693ccf8d4c7446952eb9ae98de0f812f6865934b82c2",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/c02a11e2-bbce-4f2d-a62d-af9b2ec0a56e.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 26094844
+    },
+    {
+      "contentVersion": "0b4f0855483f40b867090c5758fd459383e5f5eb53bf1e1f588dc4010397a85e",
+      "files": [
+        {
+          "bytes": 390216,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "f014e2f065234a3fab905b49f7d9fa8b374362c17546b8bd1eadbe4b9c351edd",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8D%B7%E5%8F%B6.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "a63e41be7cd380d3dd3d22c9a55965d4b75c64e14cf3d24840937eaea3558efc",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8D%B7%E5%8F%B6.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 391056,
+          "path": "assets/main.ssmesh",
+          "sha256": "579ee1946a2fd78c718d759fdc5838ed4c911912125135177b00a4584ca2c7c5",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8D%B7%E5%8F%B6.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/main.sstexture",
+          "sha256": "49f4725f160e1ddf2ed3e4fdfa1b22925765b96d8369d4eaad9de53c153419ef",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8D%B7%E5%8F%B6.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4621,
+          "path": "project.json",
+          "sha256": "b4f76b9870fcd69b70da4a4664b261141a14577b82983996344426a9931a46a8",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8D%B7%E5%8F%B6.spatialscene/project.json"
+        },
+        {
+          "bytes": 6038,
+          "path": "segmentation/contents.plist",
+          "sha256": "af5edfb0e41ba107b2a8cbaef3cd952fa160be79366262aa547efe717fd38e79",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%8D%B7%E5%8F%B6.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "65c90058-6ba8-4783-9da9-633e16c9b1ab",
+      "name": "荷叶",
+      "preview": {
+        "bytes": 95054,
+        "sha256": "fbf312c29bd3eb85f84adac4b097ccd855dbe2c47021af432dc2c5672cd671ec",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/65c90058-6ba8-4783-9da9-633e16c9b1ab.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 25957835
+    },
+    {
+      "contentVersion": "d28787d6d746104e262fb65badf5842647bd46eaeac16db1091d652d3c9ca48e",
+      "files": [
+        {
+          "bytes": 276548,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "49ec47a4c7c082452f5b45198484095eb97e89acd703ae215c97a2e6e5c4cd20",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "2fc4fabaf8eaa3f5556bd98c464db8bcc51e3fb809dcd4858657d29578d05322",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 298488,
+          "path": "assets/main.ssmesh",
+          "sha256": "b48cb0d0e30ae3c75b3b1212903c8fda0b7d1ca7eeaa5174efae9985be23cbf8",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "fc04454eb73b1087ecb786c38ba5d420a7d80e6651ba217a32be3044f1e78f55",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4743,
+          "path": "project.json",
+          "sha256": "08e2f3a802986582b9a8114a96fde1849c1679e368f302e55f2d62b8b969ebc0",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/project.json"
+        },
+        {
+          "bytes": 5924,
+          "path": "segmentation/contents.plist",
+          "sha256": "ac7bb66ecbaa99ce3247bc4016b57b5ad1af877a564bfdf2e2174f6cb155b6fc",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 115025,
+          "path": "segmentation/matte.heic",
+          "sha256": "f965acc81f73d14e2849b99b211da12724b41b2a51c5ea57e9bd8795e68f0f56",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%91.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "46ffc749-47ba-4ebf-8e6e-ca841ef126c5",
+      "name": "诱惑",
+      "preview": {
+        "bytes": 80593,
+        "sha256": "64c7b90c5323225e2e0a46c26a495c76f6588ca4ec7059754a53382fee4bb30a",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/46ffc749-47ba-4ebf-8e6e-ca841ef126c5.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17478024
+    },
+    {
+      "contentVersion": "9687f43e1ee4ba6f6aed663efc60c17a4f0a986d5d508b6518cca9cf56bd81cc",
+      "files": [
+        {
+          "bytes": 340076,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "30728fbf9818f8379f4fbde5120408bb15e620917f1e24cb882665dd5eb16205",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%912.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 12582952,
+          "path": "assets/backfill.sstexture",
+          "sha256": "c4761dfd3cd0d16efcc1c06e794c0fb24ec1a2eabeb51ff9ab4a4599f8bce4d1",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%912.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 269764,
+          "path": "assets/main.ssmesh",
+          "sha256": "18b646cbe9d837015b7268d8f8ccfac2007c44d06c2225886b68b9ccca098700",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%912.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "74935c998332952d7eb4d5d791f64f515b986ba01f80b41a302b7be232d60577",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%912.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4624,
+          "path": "project.json",
+          "sha256": "99a0269d32ac180b796a2e7535bfdd9e66cd35157c5ca151b3208416597ebe03",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%912.spatialscene/project.json"
+        },
+        {
+          "bytes": 5815,
+          "path": "segmentation/contents.plist",
+          "sha256": "213f6c0f045a687ad70c38c7e50342a624d78be3fe18c92333985e8c59811990",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%912.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "c4fd8118-cca0-4842-89ca-47dbb66d90b8",
+      "name": "诱惑2",
+      "preview": {
+        "bytes": 43755,
+        "sha256": "83d6ab0426269fcb309f7e1b99bb2e438bd0f8c0ec6c0ac73e6e92f0f58965aa",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/c4fd8118-cca0-4842-89ca-47dbb66d90b8.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 21591879
+    },
+    {
+      "contentVersion": "2abdbeacba2e437d7ae2e452d24add33432a6d15c159475c668fdce026e6c912",
+      "files": [
+        {
+          "bytes": 179408,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "4cd8df3bacfc8215271f9b163b47bf19060a18e1bb62a5f75968465cb1065187",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%913.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "ad8aa5853b8dbc8e707537bddbec5355d6603662f6211764424bb034dbf1d06c",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%913.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 168260,
+          "path": "assets/main.ssmesh",
+          "sha256": "9d5c75ba5dbf49a6a9f28e0171f6a766a2d7c198bc572b8915730e72f4d94ee8",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%913.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "0ffad31410c8bbe3ba0246d2fa053f6ddd0226901bfcdbb8755c2a6fa2b8a7ed",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%913.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4618,
+          "path": "project.json",
+          "sha256": "0b655acdf396544b4ba287e22cb271d8c3fbbb2cef32127711f8dcb9cb0210a9",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%913.spatialscene/project.json"
+        },
+        {
+          "bytes": 6138,
+          "path": "segmentation/contents.plist",
+          "sha256": "3e64d0d64e196fc0c23fb01e2930940203f4ef2596750d35e2b6e9693aef337a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E8%AF%B1%E6%83%913.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "c20cd3f8-5d2a-4240-ac2d-5a4ad62f8390",
+      "name": "诱惑3",
+      "preview": {
+        "bytes": 92236,
+        "sha256": "b8ea1dca08b3f4c8035f97a90da43674df38d911e8d7dfd631c34a3fd6746399",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/c20cd3f8-5d2a-4240-ac2d-5a4ad62f8390.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17135720
+    },
+    {
+      "contentVersion": "ba70415ed5fe8dcc94041578b5098cb64c9b333e8dc1831c3bd7fe2ba8ff8ae1",
+      "files": [
+        {
+          "bytes": 145740,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "0b05fed2b577c2b81f87d3258bd2f9083b262c3539427f0daa5767bc063f7415",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E5%B1%B1.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 4194344,
+          "path": "assets/backfill.sstexture",
+          "sha256": "583c283250499eba619e5e91834590ca256dd7fa0f84ef924d325c2f6be447ad",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E5%B1%B1.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 124096,
+          "path": "assets/main.ssmesh",
+          "sha256": "d61672d68a4497483ff3966d8c9ab58534ea8f14bc96a31ccef192b3f3dadb43",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E5%B1%B1.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 4194344,
+          "path": "assets/main.sstexture",
+          "sha256": "19ad0238671280cc572291fc8a9a3b4ab60df4e265200e60bfde1b06acc96204",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E5%B1%B1.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4604,
+          "path": "project.json",
+          "sha256": "3b5478c8f0e0ab40ab2d9f1616a9806bbcabb1354231565c642ff154cd226fef",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E5%B1%B1.spatialscene/project.json"
+        },
+        {
+          "bytes": 5584,
+          "path": "segmentation/contents.plist",
+          "sha256": "b1b1914e87af8fd29cca3e1f67bf526ed8e115626503591a9ddfe0229320f463",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E5%B1%B1.spatialscene/segmentation/contents.plist"
+        }
+      ],
+      "id": "6e45227e-986a-4e9a-80da-05f3d1ebc211",
+      "name": "金山",
+      "preview": {
+        "bytes": 108078,
+        "sha256": "92abf42f0c65dfeadffa52f6b765ed4cc55309a254d49a822ee18e954393aabb",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/6e45227e-986a-4e9a-80da-05f3d1ebc211.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 8668712
+    },
+    {
+      "contentVersion": "2d565a2b8cbc66a8381cc8bb8f5b9550090e0ca01c1beed0977e08b737100425",
+      "files": [
+        {
+          "bytes": 217620,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "82a8792accf02e63a4833afcb5802ef7935b552ecd0dc988050bdb8f776227e2",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/backfill.sstexture",
+          "sha256": "98f0f2a8c178c222d51f91cd36dc0534977a8ec0c8cc9b121b943e9020852a96",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 168792,
+          "path": "assets/main.ssmesh",
+          "sha256": "d4cfbe751c120b0c50ade9c8293ecf9d1459f4af88af2aa95e73e2d0c7c6463a",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "c309edb32c940de6f1ad41fdea361e606c39897e0fa5243b5971eaba7eeb4f5a",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4737,
+          "path": "project.json",
+          "sha256": "17f42adfafce15e33b624f4c2c0c11589a17ad20086940547e3a98bf5f17e97b",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/project.json"
+        },
+        {
+          "bytes": 5811,
+          "path": "segmentation/contents.plist",
+          "sha256": "57b163ac4c743637de0db73e2877d46c55aeee4e59a8fff5b29e0b70a2a384ee",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 23399,
+          "path": "segmentation/matte.heic",
+          "sha256": "a4da38ebdaba84099b825571e828834cfedfae4c5578cccfd2b60110eda189c6",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%87%91%E6%AF%9B.spatialscene/segmentation/matte.heic"
+        }
+      ],
+      "id": "4e558df6-c1a6-4e83-9a2d-04fa65302f67",
+      "name": "金毛",
+      "preview": {
+        "bytes": 71148,
+        "sha256": "efb205bfb9792933110858ef6b9cb08e6546c7b3a2aacf40deec8d3d44b53862",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/4e558df6-c1a6-4e83-9a2d-04fa65302f67.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 17197655
+    },
+    {
+      "contentVersion": "85323c688d33a8a6952a1bc0914e230c76ef0a3b4fa32e2bac073c404953964f",
+      "files": [
+        {
+          "bytes": 574560,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "dc72d7f4b449afd5b09b107d41fe5cdb11543dbe0a7006714c301320bd71a676",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "7f52241d9646f0d4f7a4d2f0fffecd135c00dd2b27502fd6c7a01b3ffd8d7b76",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 210312,
+          "path": "assets/main.ssmesh",
+          "sha256": "2ac39d93fcfeeffc6174d614daa84c108634ae2c83ab126c45a7c72eddd21f30",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 8388648,
+          "path": "assets/main.sstexture",
+          "sha256": "7689e6b8c4e16aa5af5602efd7120b9940b1e6227d3e509c9eef206c58dad60e",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4846,
+          "path": "project.json",
+          "sha256": "0b4037f7e88f390a5ed51e4bbb594d1d1c84ba58151df226e016e8ee42407f52",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/project.json"
+        },
+        {
+          "bytes": 6466,
+          "path": "segmentation/contents.plist",
+          "sha256": "acdc28ac7ffc77198c52414573c867804e7753fb1f18773119ead2567eb5cc60",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 26362,
+          "path": "segmentation/matte.heic",
+          "sha256": "d6ef3cf5632b73f9fe00c2d150ae407364582fef504e1dcbfc8ce0251ffb910b",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/segmentation/matte.heic"
+        },
+        {
+          "bytes": 4031779,
+          "path": "segmentation/settlingEffect.mov",
+          "sha256": "5e883c5d29f2d2b9105d9f93ffb37e409e1f6457a5d73a4ec22a210b434bef63",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF.spatialscene/segmentation/settlingEffect.mov"
+        }
+      ],
+      "id": "55b75674-c5a0-420d-b9c4-a784bfe14072",
+      "name": "风景",
+      "preview": {
+        "bytes": 96072,
+        "sha256": "5c23132b1c77507a80625bda615c3f28df08b3eaeaba2e212d95f6f6c5d1b30e",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/55b75674-c5a0-420d-b9c4-a784bfe14072.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 30020229
+    },
+    {
+      "contentVersion": "751377501f9f6aecbf88a5b91f9952d5f89caaba024c0535b3130056d368769a",
+      "files": [
+        {
+          "bytes": 752072,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "ff811063dba49f0e034cec13aa76064dd2053340c4744fcc3a99dbfeab399608",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 20971560,
+          "path": "assets/backfill.sstexture",
+          "sha256": "4d9b3f82c2d1e0ec383c809f03ab4399ec419202183bb0d546dcbfba2062b716",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 581080,
+          "path": "assets/main.ssmesh",
+          "sha256": "b43edafd88b33055a8fceda9b1fbf7b75215e41bf60521499c4b460de6357b10",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/main.sstexture",
+          "sha256": "c43dbc7aacc5ab468f3504425975e5e849c12b4d73ab1ca676049cc3c989779a",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 4703,
+          "path": "project.json",
+          "sha256": "12e30bd748b22c3c0e0ce37728de91428468696c5cab48131c96aa88b4e9dc86",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/project.json"
+        },
+        {
+          "bytes": 6719,
+          "path": "segmentation/contents.plist",
+          "sha256": "849999a7a3d0cfc603a6cc25d2b703363e62bee6252f9e32d9841080896cffd5",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/segmentation/contents.plist"
+        },
+        {
+          "bytes": 8339173,
+          "path": "segmentation/settlingEffect.mov",
+          "sha256": "a980ffee5c9cd843f7e1fc94e31f2b27e85650cbf87630627d0e7189ba4d5e33",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Wallpapers/%E9%A3%8E%E6%99%AF4.spatialscene/segmentation/settlingEffect.mov"
+        }
+      ],
+      "id": "34650672-da7e-4253-ba78-de7abf98d64d",
+      "name": "风景4",
+      "preview": {
+        "bytes": 201601,
+        "sha256": "e0693b42beff09b0ea212d6d6237dc882b8a710ddbd24b501214c09e52d02038",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/d864126864ec5f460f524a92c295c3432efa5846/Catalog/v1/previews/34650672-da7e-4253-ba78-de7abf98d64d.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 47432563
+    }
+  ]
+}
