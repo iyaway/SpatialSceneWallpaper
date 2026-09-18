@@ -1,5 +1,5 @@
 {
-  "contentRevision": "d864126864ec5f460f524a92c295c3432efa5846",
+  "contentRevision": "572f182149ac7df769fb09fb97c44fa01fc58482",
   "repository": "iyaway/SpatialSceneWallpaper",
   "schemaVersion": 1,
   "wallpapers": [
@@ -422,6 +422,55 @@
       },
       "renderer": "depth-field-v3",
       "totalBytes": 17337177
+    },
+    {
+      "contentVersion": "c8c2bb0b081ac170967c5d1ac87fa6ef45296b71ea22baa9df78d765049749ef",
+      "files": [
+        {
+          "bytes": 174028,
+          "path": "assets/backfill.ssmesh",
+          "sha256": "872e4c0bab3a755473e6d84d7df473c4140f800bc346557d55033a0ff499a6b4",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/572f182149ac7df769fb09fb97c44fa01fc58482/Wallpapers/%E6%82%9F%E7%A9%BA.spatialscene/assets/backfill.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/backfill.sstexture",
+          "sha256": "4b2eaa4639c30ade514bceaea55d59e97b05ed7975ea439665254a88f9b8bc60",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/572f182149ac7df769fb09fb97c44fa01fc58482/Wallpapers/%E6%82%9F%E7%A9%BA.spatialscene/assets/backfill.sstexture"
+        },
+        {
+          "bytes": 164964,
+          "path": "assets/main.ssmesh",
+          "sha256": "451e0cf146fc7f9e59897b88b2f74856b5e3b444e381a1b853b1be0ff1886041",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/572f182149ac7df769fb09fb97c44fa01fc58482/Wallpapers/%E6%82%9F%E7%A9%BA.spatialscene/assets/main.ssmesh"
+        },
+        {
+          "bytes": 16777256,
+          "path": "assets/main.sstexture",
+          "sha256": "94d2390329927c1fc65f206c3c238631d9574e5b2fc090a143d4551674c8bf84",
+          "storage": "lfs",
+          "url": "https://media.githubusercontent.com/media/iyaway/SpatialSceneWallpaper/572f182149ac7df769fb09fb97c44fa01fc58482/Wallpapers/%E6%82%9F%E7%A9%BA.spatialscene/assets/main.sstexture"
+        },
+        {
+          "bytes": 3240,
+          "path": "project.json",
+          "sha256": "88e304790764b6ac3c98700799292163e646ea608290809afc43c82e9d8464c7",
+          "storage": "git",
+          "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/572f182149ac7df769fb09fb97c44fa01fc58482/Wallpapers/%E6%82%9F%E7%A9%BA.spatialscene/project.json"
+        }
+      ],
+      "id": "ecd83130-2c34-52ea-ad74-52d3d42cdda1",
+      "name": "悟空",
+      "preview": {
+        "bytes": 95043,
+        "sha256": "8ce3a624d80d086e378ce5077ccf673ff12a85105c242df7356e3a36711ca67f",
+        "url": "https://raw.githubusercontent.com/iyaway/SpatialSceneWallpaper/572f182149ac7df769fb09fb97c44fa01fc58482/Catalog/v1/previews/ecd83130-2c34-52ea-ad74-52d3d42cdda1.jpg"
+      },
+      "renderer": "depth-field-v3",
+      "totalBytes": 33896744
     },
     {
       "contentVersion": "91e111f7d1cc22d5afcae2dd408af017c3cd353e93d66dfda4daf7a14ae797ca",
