@@ -1,0 +1,159 @@
+{
+  "renderer": "depth-field-v3",
+  "schemaVersion": 3,
+  "camera": {
+    "motionRange": 0.035,
+    "overscan": 0.015
+  },
+  "viewport": {
+    "y": 0,
+    "x": 0,
+    "width": 675,
+    "height": 1200
+  },
+  "generator": {
+    "input": {
+      "orientedHeight": 1200,
+      "orientedWidth": 675
+    },
+    "layerInputs": {
+      "backfill": {
+        "sourceCrop": {
+          "y": 0,
+          "x": 0,
+          "width": 675,
+          "height": 1200
+        },
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "jointVersion": "17.1.81607.13.202357,0",
+        "outputFocalLengthPx": 728.4334716796875,
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          1658,
+          932.5
+        ],
+        "fov": [
+          49.71875,
+          71.25
+        ],
+        "role": "backfill",
+        "orientedWidth": 675,
+        "orientationApplied": true,
+        "orientedHeight": 1200
+      },
+      "main": {
+        "sourceCrop": {
+          "y": 0,
+          "x": 0,
+          "width": 675,
+          "height": 1200
+        },
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "jointVersion": "17.1.81607.13.202357,0",
+        "outputFocalLengthPx": 728.4334716796875,
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          1658,
+          932.5
+        ],
+        "fov": [
+          49.71875,
+          71.25
+        ],
+        "role": "main",
+        "orientedWidth": 675,
+        "orientationApplied": true,
+        "orientedHeight": 1200
+      }
+    },
+    "visualValidation": "pending",
+    "experimental": true,
+    "strategy": "Full image for both inputs; experimental 1.16 backfill projection expansion retained for full-image mode.",
+    "cameraModel": "alchemist-cropped-input-v2",
+    "framing": {
+      "mode": "full"
+    },
+    "framingGeometry": "padded-frames",
+    "name": "Apple native GPU generator",
+    "visibleTrianglesAtRest": {
+      "backfill": 1581,
+      "main": 1979
+    }
+  },
+  "layers": [
+    {
+      "frame": {
+        "y": -96,
+        "x": -54,
+        "width": 783,
+        "height": 1392
+      },
+      "verticalFOV": 1.5252653360366821,
+      "depthRange": [
+        2.6236472129821777,
+        184.45668029785156
+      ],
+      "role": "backfill",
+      "texture": "assets/backfill.sstexture",
+      "mesh": "assets/backfill.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aspectRatio": 0.5625
+    },
+    {
+      "frame": {
+        "y": 0,
+        "x": 0,
+        "width": 675,
+        "height": 1200
+      },
+      "verticalFOV": 1.3780347108840942,
+      "depthRange": [
+        2.6235673427581787,
+        190.5973663330078
+      ],
+      "role": "main",
+      "texture": "assets/main.sstexture",
+      "mesh": "assets/main.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "aspectRatio": 0.5625
+    }
+  ],
+  "id": "ecd83130-2c34-52ea-ad74-52d3d42cdda1",
+  "name": "悟空"
+}
