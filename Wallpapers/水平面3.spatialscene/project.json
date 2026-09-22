@@ -1,0 +1,177 @@
+{
+  "camera": {
+    "motionRange": 0.035,
+    "overscan": 0.015
+  },
+  "generator": {
+    "cameraModel": "alchemist-cropped-input-v2",
+    "experimental": true,
+    "framing": {
+      "autoFramingEnabled": false,
+      "mode": "full"
+    },
+    "framingGeometry": "padded-frames",
+    "input": {
+      "orientedHeight": 2868,
+      "orientedWidth": 1613,
+      "sourcePath": "/Volumes/LaCie/Downloads/3d/xh/水平面3.png",
+      "sourceSHA256": "0df5235f393cb8e9401f85b51cd4b3bc538609dc5a7dfab3588b3acd1c7793e2"
+    },
+    "layerInputs": {
+      "backfill": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          [
+            1789,
+            1006
+          ]
+        ],
+        "fov": [
+          [
+            46.46875,
+            72.5
+          ]
+        ],
+        "inputTensorSHA256": "16063237d23a7b06e780a91a543c5b5e5aa3779e856a9e7fb7e084ecc566e44f",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2868,
+        "orientedWidth": 1613,
+        "outputFocalLengthPx": 1878.5919189453125,
+        "pixelFormat": "RGBA8",
+        "resize": "independent x/y affine scale through CoreImage",
+        "role": "backfill",
+        "sourceCrop": {
+          "height": 2868,
+          "width": 1613,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Volumes/LaCie/Downloads/3d/xh/水平面3.png",
+        "sourceSHA256": "0df5235f393cb8e9401f85b51cd4b3bc538609dc5a7dfab3588b3acd1c7793e2"
+      },
+      "main": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          [
+            1789,
+            1006
+          ]
+        ],
+        "fov": [
+          [
+            46.46875,
+            72.5
+          ]
+        ],
+        "inputTensorSHA256": "16063237d23a7b06e780a91a543c5b5e5aa3779e856a9e7fb7e084ecc566e44f",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2868,
+        "orientedWidth": 1613,
+        "outputFocalLengthPx": 1878.5919189453125,
+        "pixelFormat": "RGBA8",
+        "resize": "independent x/y affine scale through CoreImage",
+        "role": "main",
+        "sourceCrop": {
+          "height": 2868,
+          "width": 1613,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Volumes/LaCie/Downloads/3d/xh/水平面3.png",
+        "sourceSHA256": "0df5235f393cb8e9401f85b51cd4b3bc538609dc5a7dfab3588b3acd1c7793e2"
+      }
+    },
+    "name": "Native GPU real-photo test",
+    "strategy": "Full image for both inputs; experimental 1.16 backfill projection expansion retained for full-image mode.",
+    "visibleTrianglesAtRest": {
+      "backfill": 2639,
+      "main": 3537
+    },
+    "visualValidation": "pending"
+  },
+  "id": "fa1b65d9-89a6-5695-8ebb-049f6e75b903",
+  "layers": [
+    {
+      "aspectRatio": 0.5622149705886841,
+      "depthRange": [
+        5.40691614151001,
+        205.38482666015625
+      ],
+      "frame": {
+        "height": 3326.88,
+        "width": 1871.08,
+        "x": -129.04,
+        "y": -229.44
+      },
+      "mesh": "assets/backfill.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "backfill",
+      "texture": "assets/backfill.sstexture",
+      "verticalFOV": 1.448813796043396
+    },
+    {
+      "aspectRatio": 0.5622149705886841,
+      "depthRange": [
+        5.867983341217041,
+        206.3617401123047
+      ],
+      "frame": {
+        "height": 2868,
+        "width": 1613,
+        "x": 0,
+        "y": 0
+      },
+      "mesh": "assets/main.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "main",
+      "texture": "assets/main.sstexture",
+      "verticalFOV": 1.3033373355865479
+    }
+  ],
+  "renderer": "depth-field-v3",
+  "schemaVersion": 3,
+  "viewport": {
+    "height": 2868,
+    "width": 1613,
+    "x": 0,
+    "y": 0
+  }
+}

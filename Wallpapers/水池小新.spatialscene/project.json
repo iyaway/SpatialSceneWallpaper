@@ -1,0 +1,161 @@
+{
+  "camera": {
+    "motionRange": 0.035,
+    "overscan": 0.015
+  },
+  "generator": {
+    "cameraModel": "alchemist-cropped-input-v2",
+    "experimental": true,
+    "framing": {
+      "mode": "full"
+    },
+    "framingGeometry": "padded-frames",
+    "input": {
+      "orientedHeight": 2216,
+      "orientedWidth": 1024,
+      "sourcePath": "/Users/hades/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_67054b8875de462160f1308601d8c13d/nt_data/Pic/2026-09/Ori/d556f987ad4d68d1241c474ba9244821.png"
+    },
+    "layerInputs": {
+      "backfill": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          4504,
+          2080
+        ],
+        "fov": [
+          19.359375,
+          28.578125
+        ],
+        "jointVersion": "17.1.81607.13.202357,0",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2216,
+        "orientedWidth": 1024,
+        "outputFocalLengthPx": 3001.73046875,
+        "role": "backfill",
+        "sourceCrop": {
+          "height": 2216,
+          "width": 1024,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Users/hades/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_67054b8875de462160f1308601d8c13d/nt_data/Pic/2026-09/Ori/d556f987ad4d68d1241c474ba9244821.png"
+      },
+      "main": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          4504,
+          2080
+        ],
+        "fov": [
+          19.359375,
+          28.546875
+        ],
+        "jointVersion": "17.1.81607.13.202357,0",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2216,
+        "orientedWidth": 1024,
+        "outputFocalLengthPx": 3001.73046875,
+        "role": "main",
+        "sourceCrop": {
+          "height": 2216,
+          "width": 1024,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Users/hades/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/nt_qq_67054b8875de462160f1308601d8c13d/nt_data/Pic/2026-09/Ori/d556f987ad4d68d1241c474ba9244821.png"
+      }
+    },
+    "name": "Apple native GPU generator",
+    "strategy": "Full image for both inputs; experimental 1.16 backfill projection expansion retained for full-image mode.",
+    "visibleTrianglesAtRest": {
+      "backfill": 3946,
+      "main": 4564
+    },
+    "visualValidation": "pending"
+  },
+  "id": "f6b58957-4f18-5976-8c34-b2a85ee63e59",
+  "layers": [
+    {
+      "aspectRatio": 0.4615885317325592,
+      "depthRange": [
+        3.4639151096343994,
+        5.396664142608643
+      ],
+      "frame": {
+        "height": 2570.56,
+        "width": 1187.84,
+        "x": -81.92,
+        "y": -177.28
+      },
+      "mesh": "assets/backfill.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "backfill",
+      "texture": "assets/backfill.sstexture",
+      "verticalFOV": 0.8091215491294861
+    },
+    {
+      "aspectRatio": 0.4615885317325592,
+      "depthRange": [
+        3.783271551132202,
+        5.426585674285889
+      ],
+      "frame": {
+        "height": 2216,
+        "width": 1024,
+        "x": 0,
+        "y": 0
+      },
+      "mesh": "assets/main.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "main",
+      "texture": "assets/main.sstexture",
+      "verticalFOV": 0.7072120308876038
+    }
+  ],
+  "renderer": "depth-field-v3",
+  "schemaVersion": 3,
+  "viewport": {
+    "height": 2216,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  }
+}
