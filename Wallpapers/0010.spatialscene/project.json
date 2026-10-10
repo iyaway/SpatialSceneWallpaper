@@ -1,0 +1,191 @@
+{
+  "camera": {
+    "motionRange": 0.035,
+    "overscan": 0.015
+  },
+  "generator": {
+    "cameraModel": "alchemist-boundary-framing-v4",
+    "experimental": true,
+    "framing": {
+      "appleViewport": {
+        "height": 2796,
+        "width": 1291.9905213270142,
+        "x": 10.00473933649289,
+        "y": 0
+      },
+      "autoFramingEnabled": false,
+      "deviceResolution": [
+        1170,
+        2532
+      ],
+      "mode": "apple-phone",
+      "provider": "maximum-phone-viewport",
+      "scope": "Maximum source-bounded phone viewport; no image-analysis crop suggestion; no outfill",
+      "spatialPolicy": "iOS27-24A5390f-CameraController",
+      "spatialZoomInPercentage": 0.13300001621246338
+    },
+    "framingGeometry": "source-units-at-boundary",
+    "input": {
+      "orientedHeight": 2796,
+      "orientedWidth": 1312,
+      "sourcePath": "/Volumes/LaCie/Downloads/3d/bz/0010.png",
+      "sourceSHA256": "6ea30b44794ff3571c821064e4cdbd6431df844747be3aa48e0f6e39fbf4314a"
+    },
+    "layerInputs": {
+      "backfill": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          [
+            4136,
+            1940
+          ]
+        ],
+        "fov": [
+          [
+            21.046875,
+            38.40625
+          ]
+        ],
+        "inputTensorSHA256": "d6cf27ed2f3a4924d24db2a8aed495b2af26b6c2cf04cd591c902789e10edec4",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2796,
+        "orientedWidth": 1312,
+        "outputFocalLengthPx": 3531.396728515625,
+        "pixelFormat": "RGBA8",
+        "resize": "independent x/y affine scale through CoreImage",
+        "role": "backfill",
+        "sourceCrop": {
+          "height": 2796,
+          "width": 1312,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Volumes/LaCie/Downloads/3d/bz/0010.png",
+        "sourceSHA256": "6ea30b44794ff3571c821064e4cdbd6431df844747be3aa48e0f6e39fbf4314a"
+      },
+      "main": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          [
+            4136,
+            1940
+          ]
+        ],
+        "fov": [
+          [
+            21.046875,
+            38.40625
+          ]
+        ],
+        "inputTensorSHA256": "d6cf27ed2f3a4924d24db2a8aed495b2af26b6c2cf04cd591c902789e10edec4",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2796,
+        "orientedWidth": 1312,
+        "outputFocalLengthPx": 3531.396728515625,
+        "pixelFormat": "RGBA8",
+        "resize": "independent x/y affine scale through CoreImage",
+        "role": "main",
+        "sourceCrop": {
+          "height": 2796,
+          "width": 1312,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Volumes/LaCie/Downloads/3d/bz/0010.png",
+        "sourceSHA256": "6ea30b44794ff3571c821064e4cdbd6431df844747be3aa48e0f6e39fbf4314a"
+      }
+    },
+    "name": "Native GPU real-photo test",
+    "strategy": "Padding reached source boundaries. Both layers map to source-image coordinates without anisotropic stretching; viewport crops the result. No generated outfill.",
+    "visibleTrianglesAtRest": {
+      "backfill": 8181,
+      "main": 8181
+    },
+    "visualValidation": "pending"
+  },
+  "id": "0cdef761-2937-5846-82a0-f699758a62af",
+  "layers": [
+    {
+      "aspectRatio": 0.46875,
+      "depthRange": [
+        1.9796910285949707,
+        11.59014892578125
+      ],
+      "frame": {
+        "height": 2796,
+        "width": 1312,
+        "x": 0,
+        "y": 0
+      },
+      "mesh": "assets/backfill.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "backfill",
+      "texture": "assets/backfill.sstexture",
+      "verticalFOV": 0.7538946866989136
+    },
+    {
+      "aspectRatio": 0.46875,
+      "depthRange": [
+        1.9796910285949707,
+        11.59014892578125
+      ],
+      "frame": {
+        "height": 2796,
+        "width": 1312,
+        "x": 0,
+        "y": 0
+      },
+      "mesh": "assets/main.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "main",
+      "texture": "assets/main.sstexture",
+      "verticalFOV": 0.7538946866989136
+    }
+  ],
+  "renderer": "depth-field-v3",
+  "schemaVersion": 3,
+  "viewport": {
+    "height": 2796,
+    "width": 1291.9905213270142,
+    "x": 10.00473933649289,
+    "y": 0
+  }
+}
