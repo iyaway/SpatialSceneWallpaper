@@ -1,0 +1,161 @@
+{
+  "camera": {
+    "motionRange": 0.035,
+    "overscan": 0.015
+  },
+  "generator": {
+    "cameraModel": "alchemist-cropped-input-v2",
+    "experimental": true,
+    "framing": {
+      "mode": "full"
+    },
+    "framingGeometry": "padded-frames",
+    "input": {
+      "orientedHeight": 2796,
+      "orientedWidth": 1434,
+      "sourcePath": "/Volumes/LaCie/Downloads/3d/93c04900703ded8225bacb25c5ee2663.png"
+    },
+    "layerInputs": {
+      "backfill": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          1601,
+          821
+        ],
+        "fov": [
+          51.25,
+          81.75
+        ],
+        "jointVersion": "17.1.81607.13.202357,0",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2796,
+        "orientedWidth": 1434,
+        "outputFocalLengthPx": 1494.8203125,
+        "role": "backfill",
+        "sourceCrop": {
+          "height": 2796,
+          "width": 1434,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Volumes/LaCie/Downloads/3d/93c04900703ded8225bacb25c5ee2663.png"
+      },
+      "main": {
+        "colorSpace": "sRGB",
+        "focalLengthPx": [
+          1603,
+          822.5
+        ],
+        "fov": [
+          51.1875,
+          81.6875
+        ],
+        "jointVersion": "17.1.81607.13.202357,0",
+        "modelHeight": 1536,
+        "modelWidth": 1536,
+        "orientationApplied": true,
+        "orientedHeight": 2796,
+        "orientedWidth": 1434,
+        "outputFocalLengthPx": 1496.9134521484375,
+        "role": "main",
+        "sourceCrop": {
+          "height": 2796,
+          "width": 1434,
+          "x": 0,
+          "y": 0
+        },
+        "sourcePath": "/Volumes/LaCie/Downloads/3d/93c04900703ded8225bacb25c5ee2663.png"
+      }
+    },
+    "name": "Apple native GPU generator",
+    "strategy": "Full image for both inputs; experimental 1.16 backfill projection expansion retained for full-image mode.",
+    "visibleTrianglesAtRest": {
+      "backfill": 2639,
+      "main": 3454
+    },
+    "visualValidation": "pending"
+  },
+  "id": "e5ea48f1-582a-52df-bbec-f24ad1a4edc6",
+  "layers": [
+    {
+      "aspectRatio": 0.5123698115348816,
+      "depthRange": [
+        0.2820225954055786,
+        8.83011245727539
+      ],
+      "frame": {
+        "height": 3243.36,
+        "width": 1663.44,
+        "x": -114.72,
+        "y": -223.68
+      },
+      "mesh": "assets/backfill.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "backfill",
+      "texture": "assets/backfill.sstexture",
+      "verticalFOV": 1.652163028717041
+    },
+    {
+      "aspectRatio": 0.5123698115348816,
+      "depthRange": [
+        0.37263911962509155,
+        8.929454803466797
+      ],
+      "frame": {
+        "height": 2796,
+        "width": 1434,
+        "x": 0,
+        "y": 0
+      },
+      "mesh": "assets/main.ssmesh",
+      "modelToWorldColumnMajor": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "role": "main",
+      "texture": "assets/main.sstexture",
+      "verticalFOV": 1.5024868249893188
+    }
+  ],
+  "renderer": "depth-field-v3",
+  "schemaVersion": 3,
+  "viewport": {
+    "height": 2796,
+    "width": 1434,
+    "x": 0,
+    "y": 0
+  }
+}
